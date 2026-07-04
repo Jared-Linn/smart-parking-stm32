@@ -1,0 +1,40 @@
+# Keil MDK
+*.uvguix.*
+*.uvoptx
+*.Administrator
+*.scvd
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.lnp
+*.lst
+*.map
+*.iex
+*.build_log.htm
+*.tra
+
+# JLink
+JLinkLog.txt
+JLinkSettings.ini
+
+# Output
+*.out
+*.bin
+*.hex
+Listings/
+Objects/
+DebugConfig/
+
+# IDE
+.vs/
+*.suo
+*.user
+*.sln
+*.vcxproj
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
